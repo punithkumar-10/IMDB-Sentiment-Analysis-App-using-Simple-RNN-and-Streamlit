@@ -12,6 +12,7 @@ This project implements a simple Recurrent Neural Network (RNN) model to classif
 - **Pre-trained Model**: Utilizes a pre-trained RNN model for quick and accurate predictions.
 
 ---
+![Demo](screenshot.png)
 
 ## Installation
 
